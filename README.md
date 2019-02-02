@@ -1,9 +1,9 @@
 
-# Regressão polinomial | Polynomial regression
+# Regressão polinomial - quadrados mínimos | Polynomial regression - least squares
 
-Script feito em Python que calcula curvas de regressão de n-ésima ordem, dado um conjunto de pares ordenados.
+Script feito em Python que calcula curvas de regressão de n-ésima ordem, dado um conjunto de pares ordenados, utilizando o método da soma mínima dos quadrados.
 
-Python script that calculates n-th order regression curves given a data set.
+Python script that calculates n-th order regression curves given a data set, using the least squares' sum method.
 
 
 ## Como fornecer os dados | How to set the data
