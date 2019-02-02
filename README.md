@@ -8,9 +8,9 @@ Python script that calculates n-th order regression curves given a data set, usi
 
 ## Como fornecer os dados | How to set the data
 
-Para fornecer os dados da regressão é necessário que um arquivo csv seja fornecido, de forma que a primeira coluna possuirá os valores das abcissas e a segunda coluna possuirá os valores das ordenadas, da seguinte forma: 
+Para fornecer os dados da regressão é necessário que um arquivo csv seja fornecido. A primeira coluna possuirá os valores das abcissas e a segunda coluna possuirá os valores das ordenadas, da seguinte forma: 
 
-To set the data of the regression, a csv file will be needed so that the first column will receive the abcissas' values, while the second column will receive the odinates' values, in the way shown below:
+To set the data of the regression, a csv file will be needed. It's first column will receive the abcissas' values, while the second column will receive the odinates' values, in the way shown below:
 
   ![Csv file structure](https://github.com/jlucartc/Polynomial-Regression/blob/master/data.PNG)
   
