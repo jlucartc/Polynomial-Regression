@@ -12,7 +12,7 @@ Para fornecer os dados da regressão é necessário que um arquivo csv seja forn
 
 To set the data of the regression, a csv file will be needed so that the first column will receive the abcissas' values, while the second column will receive the odinates' values, in the way shown below:
 
-  ![Csv file structure](https://github.com/jlucartc/data.png)
+  ![Csv file structure](https://github.com/jlucartc/Polynomial-Regression/blob/master/data.PNG)
   
   OBS: o nome do arquivo csv no script está definido como 'data.csv'. Lembre-se de alterar o nome no código ou de renomear o seu arquivo     csv para o nome pré-definido.
   
