@@ -7,7 +7,7 @@ import numpy as np;
 from math import * ;
 
 # PT-BR : monta a equação de ordem fornecida com os símbolos para posterior substituição
-# EN : builds up the equation of n-th order with symbols for further substitution
+# EN : builds the equation of n-th order with symbols for further substitution
 
 def montarEquacao(incognitas,x): 
     
@@ -21,7 +21,7 @@ def montarEquacao(incognitas,x):
 
 
 # PT-BR: checa se o valor fornecido pode ser interpretado como float
-# EN : checks if the given value can be seen as float
+# EN : checks if given value can be cast to float
 
 def isFloat(s) : 
 
